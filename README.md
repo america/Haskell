@@ -1,1 +1,1 @@
-# Haskell
+# Haskell練習用
